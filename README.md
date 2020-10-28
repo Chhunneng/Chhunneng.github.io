@@ -2,26 +2,24 @@
 
 I am 🤖 **human** and pronouns 😂 **He**.  
 I make weird stuff in ⭐️ [@github](https://github.com/Chhunneng) and publish 🤪 dumb projects.  
-I currently working as Website developer and Data Science
+### Wokring
+I currently working as Website developer, Mobile developer, API and Data Science.
 
-Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker)
+### Experience
+I use language Python, C++, C Program, Java, Scala, Kotlin, C#, JavaScript, CSS and Html.
+
+Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@Docker](https://github.com/django), [@React](https://github.com/facebook/react), [@React-Native](https://github.com/facebook/react-native), [@django-rest-framework](https://github.com/encode/django-rest-framework) and , [@graphql](https://github.com/topics/graphql)
 
 ### Resume
-
-- See my [resume][resume-url]
-- LinkedIn: [@socheatsok78][linkedin-url]
+- LinkedIn: [@Chrea Chanchhunneng][linkedin-url]
 
 ### Socials
-
-- Dev: [@socheatsok78][dev-url]
-- Stack Overflow: [@socheatsok78][stackoverflow-url]
-- Twitter: [@socheatsok78][twitter-url]
-- Instagram: [@socheatsok78][instagram-url]
-
+- Stack Overflow: [@Chrea Chanchhunneng][stackoverflow-url]
+- Twitter: [@Chrea Chanchhunneng][twitter-url]
+- Instagram: [@Chrea Chanchhunneng][instagram-url]
+- Facebook: [@Chrea Chanchhunneng][facebook-url]
 <!-- Links -->
-[resume-url]: https://registry.jsonresume.org/socheatsok78
-[dev-url]: https://dev.to/socheatsok78
-[stackoverflow-url]: https://stackoverflow.com/story/socheatsok78
-[twitter-url]: https://twitter.com/socheatsok78
-[instagram-url]: https://www.instagram.com/socheatsok78
-[linkedin-url]: https://www.linkedin.com/in/socheatsok78
+[stackoverflow-url]: https://stackoverflow.com/users/11146261/chanchhunneng-chrea
+[instagram-url]: https://www.instagram.com/chhunneng.heart
+[linkedin-url]: https://www.linkedin.com/in/chrea-chanchhunneng-11a833168/
+[facebook-url]: https://www.fb.com/chhunneng.nicky
