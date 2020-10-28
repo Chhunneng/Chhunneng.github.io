@@ -8,14 +8,13 @@ I currently working as Website developer, Mobile developer, API and Data Science
 ### Experience
 I use language Python, C++, C Program, Java, Scala, Kotlin, C#, JavaScript, CSS and Html.
 
-Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@Docker](https://github.com/django), [@React](https://github.com/facebook/react), [@React-Native](https://github.com/facebook/react-native), [@django-rest-framework](https://github.com/encode/django-rest-framework) and , [@graphql](https://github.com/topics/graphql)
+Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@Docker](https://github.com/django), [@React](https://github.com/facebook/react), [@React-Native](https://github.com/facebook/react-native), [@django-rest-framework](https://github.com/encode/django-rest-framework) and [@graphql](https://github.com/topics/graphql)
 
 ### Resume
 - LinkedIn: [@Chrea Chanchhunneng][linkedin-url]
 
 ### Socials
 - Stack Overflow: [@Chrea Chanchhunneng][stackoverflow-url]
-- Twitter: [@Chrea Chanchhunneng][twitter-url]
 - Instagram: [@Chrea Chanchhunneng][instagram-url]
 - Facebook: [@Chrea Chanchhunneng][facebook-url]
 <!-- Links -->
