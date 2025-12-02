@@ -1,34 +1,16 @@
-```
+# React + Vite
 
- ██████╗██╗  ██╗██╗  ██╗██╗   ██╗███╗   ██╗███╗   ██╗███████╗███╗   ██╗ ██████╗ 
-██╔════╝██║  ██║██║  ██║██║   ██║████╗  ██║████╗  ██║██╔════╝████╗  ██║██╔════╝ 
-██║     ███████║███████║██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██╔██╗ ██║██║  ███╗
-██║     ██╔══██║██╔══██║██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║╚██╗██║██║   ██║
-╚██████╗██║  ██║██║  ██║╚██████╔╝██║ ╚████║██║ ╚████║███████╗██║ ╚████║╚██████╔╝
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
-                                                                                
-```
-## Hi there 👋
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-I am 🤖 **human** and pronouns 😂 **He**.  
-I make weird stuff in ⭐️ [@github](https://github.com/Chhunneng) and publish 🤪 dumb projects.  
-### Wokring
-I currently working as Website developer, Mobile developer, API and Data Science.
+Currently, two official plugins are available:
 
-### Experience
-I use language Python, C++, C Program, Java, Scala, Kotlin, C#, JavaScript, CSS and Html.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@Django](https://github.com/django), [@React](https://github.com/facebook/react), [@React-Native](https://github.com/facebook/react-native), [@django-rest-framework](https://github.com/encode/django-rest-framework) and [@graphql](https://github.com/topics/graphql)
+## React Compiler
 
-### Resume
-- LinkedIn: [@Chrea Chanchhunneng][linkedin-url]
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-### Socials
-- Stack Overflow: [@Chrea Chanchhunneng][stackoverflow-url]
-- Instagram: [@Chrea Chanchhunneng][instagram-url]
-- Facebook: [@Chrea Chanchhunneng][facebook-url]
-<!-- Links -->
-[stackoverflow-url]: https://stackoverflow.com/users/11146261/chanchhunneng-chrea
-[instagram-url]: https://www.instagram.com/chhunneng.heart
-[linkedin-url]: https://www.linkedin.com/in/chrea-chanchhunneng-11a833168/
-[facebook-url]: https://www.fb.com/chhunneng.nicky
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
